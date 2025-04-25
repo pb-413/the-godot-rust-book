@@ -1,4 +1,4 @@
-// Class Declaration
+// Class declaration
 use godot::prelude::*;
 use godot::classes::Sprite2D;
 
@@ -12,7 +12,7 @@ struct Player {
 }
 
 
-// Method Declaration
+// Method declaration
 use godot::classes::ISprite2D;
 
 #[godot_api]
